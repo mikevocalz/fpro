@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  float: left;
+  height: 55px; 
+  align-self: flex-start;
+}
+
+.App-header {
+  flex: 1;
+  background-color: #0e1420;
+  height: 60px;
+  padding: 5px;
+  color: white;
+  justify-content: flex-start;
+  text-align: 'left'
+}
+
+
+
